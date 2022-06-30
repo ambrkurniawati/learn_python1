@@ -1,0 +1,18 @@
+#print
+print("Hello World!")
+
+#Variabels and Literals
+number1 = 10 #number1 is variabels and 10 is literals
+number2 = 5
+
+#Operators
+print(number1 * number5) #the output is 50
+
+#SIMPLE CALCULATORS
+#calculate the phone price. the base_price is 7500000, the discount is 15%, and the tax is 10%
+#answer:
+base_price = 7500000
+discount = base_price*0.3
+price_after_discount = base_price - discount
+final_price = price_after_discount * 1.1 #1.1 is 100% + 10%
+print(final_price)
