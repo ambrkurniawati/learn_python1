@@ -16,3 +16,11 @@ discount = base_price*0.3
 price_after_discount = base_price - discount
 final_price = price_after_discount * 1.1 #1.1 is 100% + 10%
 print(final_price)
+
+#Data Type
+1. Null (empty value)
+2. Boolean (True or False)
+3. Numeric (Integer (1, 2, 800, 450) and float (5.2, 7.8, 10.5))
+4. Text ('', "")
+
+#List
