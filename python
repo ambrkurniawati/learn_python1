@@ -44,3 +44,8 @@ person = {'nama' : 'Ambar', 'position' : 'Data Analyst and Business Intelligence
 print(person['nama'])
 print(person['position'])
 
+#PRACTICE (SIMPLE CALCULATION)
+#data
+sepatu = {'nama' : 'Sepatu Niko', 'harga' : 150000, 'discount' : 30000}
+baju =  {'nama' : 'Baju Unikloh', 'harga' : 80000, 'discount' : 8000}
+celana =  {'nama' : 'Celana lepis, 'harga' : 200000, 'discount' : 60000}
